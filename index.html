@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="sr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script> 
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <title>Oskar - Najbolji Film</title>
+</head>
+<body>
+    <header>
+        <h1>Oskar - Najbolji Film 2013 - 2020</h1>
+    </header>
+    <div class="container">
+        <div class="row">
+            <div class="col mb-1">
+                <div class="card card-body">
+
+                    <input id="search-input" class="form-control" type="text">
+
+                </div>
+            </div>
+        </div>    
+        <table class="table table-sm">
+            <tr>
+                <th data-column="naslov" data-order="desc">Naslov &#9650</th>
+                <th data-column="godina" data-order="desc">Godina &#9650</th>
+                <th data-column="rezija" data-order="desc">Režija &#9650</th>
+                <th data-column="ocena" data-order="desc">Ocena IMDB &#9650</th>
+            </tr>
+
+            <tbody id="myTable">    
+
+            </tbody>    
+        </table>
+    </div>
+
+   
+         
+
+
+
+    <script src="script.js"></script>
+</body>
+</html>
+
