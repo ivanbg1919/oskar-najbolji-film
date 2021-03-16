@@ -66,7 +66,37 @@ var filmovi = [
         godina: 2010,
         rezija: 'Kathryn Bigelow',
         ocena: 7.5
-    },              
+    },     
+    {
+        naslov: 'Slumdog Millionaire',
+        godina: 2009,
+        rezija: 'Danny Boyle',
+        ocena: 8.0
+    },   
+    {
+        naslov: 'No Country for Old Men',
+        godina: 2008,
+        rezija: 'Ethan Coen, Joel Coen',
+        ocena: 8.1
+    },
+    {
+        naslov: 'The Departed',
+        godina: 2007,
+        rezija: 'Martin Scorsese',
+        ocena: 8.5
+    },
+    {
+        naslov: 'Crash',
+        godina: 2006,
+        rezija: 'Paul Haggis',
+        ocena: 7.7
+    },
+    {
+        naslov: 'Million Dollar Baby',
+        godina: 2005,
+        rezija: 'Clint Eastwood',
+        ocena: 8.1
+    },      
 ];
 // Sortable Table Columns
 $('th').on('click', function(){
