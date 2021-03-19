@@ -96,8 +96,99 @@ var filmovi = [
         godina: 2005,
         rezija: 'Clint Eastwood',
         ocena: 8.1
-    },      
+    },    
+    {
+        naslov: 'The Lord of the Rings: The Return of the King',
+        godina: 2004,
+        rezija: 'Peter Jackson',
+        ocena: 8.8
+    },  
+    {
+        naslov: 'Chicago',
+        godina: 2003,
+        rezija: 'Rob Marshall',
+        ocena: 7.2
+    },
+    {
+        naslov: 'A Beautiful Mind',
+        godina: 2002,
+        rezija: 'Ron Howard',
+        ocena: 8.2
+    },
+    {
+        naslov: 'Gladiator',
+        godina: 2001,
+        rezija: 'Ridley Scott',
+        ocena: 8.5
+    },
+    {
+        naslov: 'American Beauty',
+        godina: 2000,
+        rezija: 'Sam Mendes',
+        ocena: 8.3
+    },
+    {
+        naslov: 'Shakespeare in Love',
+        godina: 1999,
+        rezija: 'John Madden',
+        ocena: 7.1
+    },
+    {
+        naslov: 'Titanic',
+        godina: 1998,
+        rezija: 'James Cameron',
+        ocena: 7.8
+    },
+    {
+        naslov: 'The English Patient',
+        godina: 1997,
+        rezija: 'Anthony Minghella',
+        ocena: 7.4
+    },
+    {
+        naslov: 'Braveheart',
+        godina: 1996,
+        rezija: 'Mel Gibson',
+        ocena: 8.3
+    },
+    {
+        naslov: 'Forrest Gump',
+        godina: 1995,
+        rezija: 'Robert Zemeckis',
+        ocena: 8.8
+    },
+    {
+        naslov: 'Schindler’s List',
+        godina: 1994,
+        rezija: 'Steven Spielberg',
+        ocena: 8.9
+    },
+    {
+        naslov: 'Unforgiven',
+        godina: 1993,
+        rezija: 'Clint Eastwood',
+        ocena: 8.2
+    },
+    {
+        naslov: 'The Silence of the Lambs',
+        godina: 1992,
+        rezija: 'Jonathan Demme',
+        ocena: 8.6
+    },
+    {
+        naslov: 'Dances With Wolves',
+        godina: 1991,
+        rezija: 'Kevin Costner',
+        ocena: 8.0
+    },
+    {
+        naslov: 'Driving Miss Daisy',
+        godina: 1990,
+        rezija: 'Bruce Beresford',
+        ocena: 7.3
+    },
 ];
+
 // Sortable Table Columns
 $('th').on('click', function(){
     var column = $(this).data('column')
