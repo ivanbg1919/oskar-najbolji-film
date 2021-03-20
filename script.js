@@ -1,6 +1,6 @@
 var filmovi = [
     {
-        naslov: '<a href="#">Parasite</a>',
+        naslov: '<a href="https://www.imdb.com/title/tt6751668/?ref_=fn_al_tt_1" target="_blank">Parasite</a>',
         godina: 2020,
         rezija: 'Bong Joon Ho',
         ocena: 8.6
