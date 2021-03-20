@@ -1,6 +1,6 @@
 var filmovi = [
     {
-        naslov: 'Parasite',
+        naslov: '<a href="#">Parasite</a>',
         godina: 2020,
         rezija: 'Bong Joon Ho',
         ocena: 8.6
@@ -186,6 +186,12 @@ var filmovi = [
         godina: 1990,
         rezija: 'Bruce Beresford',
         ocena: 7.3
+    },
+    {
+        naslov: 'Rain Man',
+        godina: 1989,
+        rezija: 'Barry Levinson',
+        ocena: 8.0
     },
 ];
 
