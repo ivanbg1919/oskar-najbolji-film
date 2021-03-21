@@ -193,6 +193,60 @@ var filmovi = [
         rezija: 'Barry Levinson',
         ocena: 8.0
     },
+    {
+        naslov: 'The Last Emperor',
+        godina: 1988,
+        rezija: 'Bernardo Bertolucci',
+        ocena: 7.7
+    },
+    {
+        naslov: 'Platoon',
+        godina: 1987,
+        rezija: 'Oliver Stone',
+        ocena: 8.1
+    },
+    {
+        naslov: 'Out of Africa',
+        godina: 1986,
+        rezija: 'Sydney Pollack',
+        ocena: 7.2
+    },
+    {
+        naslov: 'Amadeus',
+        godina: 1985,
+        rezija: 'Milos Forman',
+        ocena: 8.3
+    },
+    {
+        naslov: 'Terms of Endearment',
+        godina: 1984,
+        rezija: 'James L. Brooks',
+        ocena: 7.4
+    },
+    {
+        naslov: 'Gandhi',
+        godina: 1983,
+        rezija: 'Richard Attenborough',
+        ocena: 8.0
+    },
+    {
+        naslov: 'Chariots of Fire',
+        godina: 1982,
+        rezija: 'Hugh Hudson',
+        ocena: 7.2
+    },
+    {
+        naslov: 'Ordinary People',
+        godina: 1981,
+        rezija: 'Robert Redford',
+        ocena: 7.7
+    },
+    {
+        naslov: 'Kramer vs. Kramer',
+        godina: 1980,
+        rezija: 'Robert Benton',
+        ocena: 7.8
+    },
 ];
 
 // Sortable Table Columns
