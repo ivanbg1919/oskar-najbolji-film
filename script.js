@@ -247,6 +247,66 @@ var filmovi = [
         rezija: 'Robert Benton',
         ocena: 7.8
     },
+    {
+        naslov: 'The Deer Hunter',
+        godina: 1979,
+        rezija: 'Michael Cimino',
+        ocena: 8.1
+    },
+    {
+        naslov: 'Annie Hall',
+        godina: 1978,
+        rezija: 'Woody Allen',
+        ocena: 8.0
+    },
+    {
+        naslov: 'Rocky',
+        godina: 1977,
+        rezija: 'John G. Avildsen',
+        ocena: 8.1
+    },
+    {
+        naslov: 'One Flew over the Cuckoo"s Nest',
+        godina: 1976,
+        rezija: 'Milos Forman',
+        ocena: 8.7
+    },
+    {
+        naslov: 'The Godfather Part II',
+        godina: 1975,
+        rezija: 'Francis Ford Coppola',
+        ocena: 9.0
+    },
+    {
+        naslov: 'The Sting',
+        godina: 1974,
+        rezija: 'George Roy Hill',
+        ocena: 8.3
+    },
+    {
+        naslov: 'The Godfather',
+        godina: 1973,
+        rezija: 'Francis Ford Coppola',
+        ocena: 9.2
+    },
+    {
+        naslov: 'The French Connection',
+        godina: 1972,
+        rezija: 'William Friedkin',
+        ocena: 7.7
+    },
+    {
+        naslov: 'Patton',
+        godina: 1971,
+        rezija: 'Franklin J. Schaffner',
+        ocena: 7.9
+    },
+    {
+        naslov: 'Midnight Cowboy',
+        godina: 1970,
+        rezija: 'John Schlesinger',
+        ocena: 7.8
+    },
 ];
 
 // Sortable Table Columns
