@@ -307,6 +307,66 @@ var filmovi = [
         rezija: 'John Schlesinger',
         ocena: 7.8
     },
+    {
+        naslov: 'Oliver!',
+        godina: 1969,
+        rezija: 'Carol Reed',
+        ocena: 7.4
+    },
+    {
+        naslov: 'In the Heat of the Night',
+        godina: 1968,
+        rezija: 'Norman Jewison',
+        ocena: 7.9
+    },
+    {
+        naslov: 'A Man for All Seasons',
+        godina: 1967,
+        rezija: 'Fred Zinnemann',
+        ocena: 7.7
+    },
+    {
+        naslov: 'The Sound of Music',
+        godina: 1966,
+        rezija: 'Robert Wise',
+        ocena: 8.0
+    },
+    {
+        naslov: 'My Fair Lady',
+        godina: 1965,
+        rezija: 'George Cukor',
+        ocena: 7.8
+    },
+    {
+        naslov: 'Tom Jones',
+        godina: 1964,
+        rezija: 'Tony Richardson',
+        ocena: 6.5
+    },
+    {
+        naslov: 'Lawrence of Arabia',
+        godina: 1963,
+        rezija: 'David Lean',
+        ocena: 8.3
+    },
+    {
+        naslov: 'West Side Story',
+        godina: 1962,
+        rezija: 'Jerome Robbins, Robert Wise',
+        ocena: 7.5
+    },
+    {
+        naslov: 'The Apartment',
+        godina: 1961,
+        rezija: 'Billy Wilder',
+        ocena: 8.3
+    },
+    {
+        naslov: 'Ben-Hur',
+        godina: 1960,
+        rezija: 'William Wyler',
+        ocena: 8.1
+    },
 ];
 
 // Sortable Table Columns
