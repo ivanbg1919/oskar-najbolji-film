@@ -367,6 +367,36 @@ var filmovi = [
         rezija: 'William Wyler',
         ocena: 8.1
     },
+    {
+        naslov: 'Gigi',
+        godina: 1959,
+        rezija: 'Vincente Minnelli, Charles Walters',
+        ocena: 6.7
+    },
+    {
+        naslov: 'The Bridge on the River Kwai',
+        godina: 1958,
+        rezija: 'David Lean',
+        ocena: 8.1
+    },
+    {
+        naslov: 'Around the World in 80 Days',
+        godina: 1957,
+        rezija: 'Michael Anderson, John Farrow',
+        ocena: 6.8
+    },
+    {
+        naslov: 'Marty',
+        godina: 1956,
+        rezija: 'Mann',
+        ocena: 7.7
+    },
+    {
+        naslov: 'On the Waterfront',
+        godina: 1955,
+        rezija: 'Elia Kazan',
+        ocena: 8.1
+    },
 ];
 
 // Sortable Table Columns
