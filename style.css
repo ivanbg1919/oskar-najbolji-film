@@ -34,3 +34,7 @@ a:active {
   text-decoration: underline;
   color: black;
 }
+
+input {
+  text-align: center;
+}
