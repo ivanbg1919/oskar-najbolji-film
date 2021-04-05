@@ -397,6 +397,36 @@ var filmovi = [
         rezija: 'Elia Kazan',
         ocena: 8.1
     },
+    {
+        naslov: 'From Here to Eternity',
+        godina: 1954,
+        rezija: 'Fred Zinnemann',
+        ocena: 7.6
+    },
+    {
+        naslov: 'The Greatest Show on Earth',
+        godina: 1953,
+        rezija: 'Cecil B. DeMille',
+        ocena: 6.6
+    },
+    {
+        naslov: 'An American in Paris',
+        godina: 1952,
+        rezija: 'Vincente Minnelli',
+        ocena: 7.2
+    },
+    {
+        naslov: 'All About Eve',
+        godina: 1951,
+        rezija: 'Joseph L. Mankiewicz',
+        ocena: 8.2
+    },
+    {
+        naslov: 'All the Kings Men',
+        godina: 1950,
+        rezija: 'Robert Rossen',
+        ocena: 7.5
+    },
 ];
 
 // Sortable Table Columns
