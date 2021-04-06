@@ -427,6 +427,42 @@ var filmovi = [
         rezija: 'Robert Rossen',
         ocena: 7.5
     },
+    {
+        naslov: 'Hamlet',
+        godina: 1949,
+        rezija: 'Laurence Olivier',
+        ocena: 7.6
+    },
+    {
+        naslov: 'Gentleman"s Agreement',
+        godina: 1948,
+        rezija: 'Elia Kazan',
+        ocena: 7.2
+    },
+    {
+        naslov: 'The Best Years of Our Lives',
+        godina: 1947,
+        rezija: 'William Wyler',
+        ocena: 8.0
+    },
+    {
+        naslov: 'The Lost Weekend',
+        godina: 1946,
+        rezija: 'Billy Wilder',
+        ocena: 7.9
+    },
+    {
+        naslov: 'Going My Way',
+        godina: 1945,
+        rezija: 'Leo McCarey',
+        ocena: 7.0
+    },
+    {
+        naslov: 'Casablanca',
+        godina: 1944,
+        rezija: 'Michael Curtiz',
+        ocena: 8.5
+    },
 ];
 
 // Sortable Table Columns
