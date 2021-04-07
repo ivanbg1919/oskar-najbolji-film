@@ -463,6 +463,31 @@ var filmovi = [
         rezija: 'Michael Curtiz',
         ocena: 8.5
     },
+    {
+        naslov: 'Mrs. Miniver',
+        godina: 1943,
+        rezija: 'William Wyler',
+        ocena: 7.6
+    },
+    {
+        naslov: 'How Green Was My Valley',
+        godina: 1942,
+        rezija: 'John Ford',
+        ocena: 7.7
+    },
+    {
+        naslov: 'Rebecca',
+        godina: 1941,
+        rezija: 'Alfred Hitchcock',
+        ocena: 8.1
+    },
+    {
+        naslov: 'Gone with the Wind',
+        godina: 1940,
+        rezija: 'Victor Fleming, George Cukor',
+        ocena: 8.1
+    },
+    
 ];
 
 // Sortable Table Columns
