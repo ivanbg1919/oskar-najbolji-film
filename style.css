@@ -56,3 +56,21 @@ a:active {
 input {
   text-align: center;
 }
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  grid-column-gap: 1rem;
+  grid-row-gap: 1rem;
+}
+
+.gallery img {
+  width: 100%;
+}
+
+footer {
+  margin-top: 20px;
+  padding: 20px;
+  text-align: center;
+  color: white;
+}
